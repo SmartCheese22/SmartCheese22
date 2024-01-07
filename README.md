@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @SmartCheese22
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Prathamesh
+- 👀 I like to code and build stuff
+- 🌱 I’m currently pursuing a Bachelor's Degree in Computer Science at IIT Kanpur
+- 💞️ I’d love to collaborate on projects that suit my interests
+- 📫 You can reach me through my mail: baviskarprathamesh1728@gmail.com
 
 <!---
 SmartCheese22/SmartCheese22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
